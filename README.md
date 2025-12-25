@@ -21,3 +21,5 @@ Bu uygulama ile:
  * Tartım, karşılaştırma ve yeniden ergitme süreçleri daha hızlı, izlenebilir ve güvenilir hale getirilmektedir.
 
 Uygulama, üretim sahasında operasyonel verimliliği artırmayı, manuel kontrol ihtiyacını azaltmayı ve hurda yönetim sürecini dijital olarak standartlaştırmayı hedeflemektedir.
+
+
